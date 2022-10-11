@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+# this is main function
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'todo_drf.settings')
     try:
